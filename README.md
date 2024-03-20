@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Megan</h1>
+<h3 align="center">a developer passionate about art and tech!</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/meganbxwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meganbxwu" height="30" width="40" /></a>
+<a href="https://instagram.com/m.117.w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.117.w" height="30" width="40" /></a>
+</p>
 <!--
 **mw-171/mw-171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
